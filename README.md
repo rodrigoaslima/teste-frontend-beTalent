@@ -127,4 +127,4 @@ Agradeço à equipe da **BeTalent** pela oportunidade de participar deste teste.
 
 ---
 
-Feito com ❤️ por Rodrigo Augusto Silva lima(https://github.com/rodrigoaslima/).
+Feito com ❤️ por Rodrigo Augusto Silva Lima (https://github.com/rodrigoaslima/).
